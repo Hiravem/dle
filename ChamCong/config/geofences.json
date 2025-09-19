@@ -1,0 +1,42 @@
+{
+  "geofences": [
+    {
+      "name": "Main Office",
+      "center_lat": 10.762622,
+      "center_lon": 106.660172,
+      "radius_meters": 100,
+      "allowed_deviation": 50.0,
+      "description": "Primary office location in Ho Chi Minh City"
+    },
+    {
+      "name": "Branch Office 1",
+      "center_lat": 21.028511,
+      "center_lon": 105.854167,
+      "radius_meters": 80,
+      "allowed_deviation": 40.0,
+      "description": "Branch office in Hanoi"
+    },
+    {
+      "name": "Warehouse",
+      "center_lat": 10.7769,
+      "center_lon": 106.7009,
+      "radius_meters": 150,
+      "allowed_deviation": 75.0,
+      "description": "Warehouse facility"
+    },
+    {
+      "name": "Remote Work Zone",
+      "center_lat": 10.8231,
+      "center_lon": 106.6297,
+      "radius_meters": 200,
+      "allowed_deviation": 100.0,
+      "description": "Remote work area for field employees"
+    }
+  ],
+  "settings": {
+    "default_radius": 100,
+    "max_deviation": 100.0,
+    "gps_accuracy_threshold": 10.0,
+    "update_interval_minutes": 5
+  }
+}
