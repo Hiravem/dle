@@ -8,3 +8,4 @@ https://oj.vnoi.info/                                                           
 
 https://gamma.app/                                                                         -- làm slice thuyết trình
 https://arxiv.org/pdf/2401.16186                                                           -- báo cáo khoa học về LLM
+https://downsub.com                                                                        -- lấy sub video yt
