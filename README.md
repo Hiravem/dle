@@ -9,3 +9,6 @@ https://oj.vnoi.info/                                                           
 https://gamma.app/                                                                         -- làm slice thuyết trình
 https://arxiv.org/pdf/2401.16186                                                           -- báo cáo khoa học về LLM
 https://downsub.com                                                                        -- lấy sub video yt
+getgenv().Version = "V4"
+getgenv().Team = "Marines"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TlDinhKhoi/Xeter/refs/heads/main/Main.lua"))()
