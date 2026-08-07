@@ -1,5 +1,5 @@
 
-markdown_content = """# Hướng Dẫn Triển Khai Cơ Chế Sinh Point Tự Động Theo Đường Cong (Bezier Curve / Splines) Cho Saga Map
+"""# Hướng Dẫn Triển Khai Cơ Chế Sinh Point Tự Động Theo Đường Cong (Bezier Curve / Splines) Cho Saga Map
 
 ## 1. Giới Thiệu Tổng Quan
 
