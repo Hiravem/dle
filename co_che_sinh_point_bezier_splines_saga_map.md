@@ -1,5 +1,5 @@
 
-"""# Hướng Dẫn Triển Khai Cơ Chế Sinh Point Tự Động Theo Đường Cong (Bezier Curve / Splines) Cho Saga Map
+# Hướng Dẫn Triển Khai Cơ Chế Sinh Point Tự Động Theo Đường Cong (Bezier Curve / Splines) Cho Saga Map
 
 ## 1. Giới Thiệu Tổng Quan
 
@@ -359,7 +359,6 @@ public void DrawPathLine(List<Vector3> nodePositions)
 * [x] Lựa chọn giải pháp: Tự viết toán Bezier (cho tùy biến cao) hoặc Dùng Unity Splines Package (cho thao tác trực quan).
 * [x] Xử lý Arc-Length Parameterization để khoảng cách giữa các nút luôn bằng nhau bất kể độ cong.
 * [x] Thiết lập khớp tọa độ điểm đầu/cuối ($P_0$ và $P_3$) giữa các Chunk kế tiếp.
-* [x] Gắn `LineRenderer` vẽ đường dẫn liên kết các nút.
-"""
+
 
 
